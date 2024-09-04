@@ -1,0 +1,19 @@
+{
+  "name": "fetch-price-eth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "telegraf": "^4.16.3",
+    "ws": "^8.18.0"
+  }
+}
